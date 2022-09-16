@@ -1,7 +1,7 @@
 # Streamlit-Open-Pub-Application
 
 
-Task - Open Pub Application
+## Task - Open Pub Application
 
 Let’s assume you are on a vacation in the United Kingdom with your friends. Just for some fun, you decided to go to the Pubs nearby for some drinks. Google Maps is down because of some issues. 
 
